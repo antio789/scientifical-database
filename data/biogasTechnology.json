@@ -1,0 +1,14 @@
+[
+    {
+        "doi": "10.1016/j.enconman.2024.118816",
+        "title": "A call for modernisation of science, the case of anaerobic digestion: A scoping review",
+        "abstract": "Anaerobic digestion is an important renewable energy technology that has the potential to reduce greenhouse gas emissions and contribute to the development of a sustainable energy system. However, research on anaerobic digestion is extensive and fragmented, making it difficult to gain a comprehensive understanding of the technology. Therefore, a large scoping review was performed, using adapted PRISMA protocol, aims to provide a comprehensive overview of the anaerobic digestion process, from pretreatment to gas utilisation, and the research conducted in each step. In addition, this research serve to highlighted issues in the current research environment as to identify limitations. The review involved analysing 4660 articles and exhaustively identifying the different methods for following research parameters: pretreatment (1279), reactor design (9 2 3), temperature (9 0 7), H2S cleaning (8 9 3), and biogas upgrading (6 5 8). This information can serve as a basis for future standardisation of work to increase the efficiency of biogas research. There is a large number of methods employed in all the parameters explored, with a lack of standardisation in reporting and no clear definition for certain terms leading to confusion and issues classifying. A problem exacerbated by an exponential growth in published research. This also compromises comparisons and reviews accuracy and leads to tedious work to recover information and the inevitability of missing crucial information. As a result, we observed a lack of exhaustiveness in this work. This also highlights the urgent need for harmonisation of research to facilitate knowledge transfer and avoid redundant work or the overlooking of potential breakthrough research, while also indicating to researchers where focus should be orientated. Modern databases and centralisation could help bring standards, simplified reviews and updatable work hampered by traditional reporting. Research needs to be more accessible and rigorous using the open science framework, as to promote transparency, reproducibility and cooperation.",
+        "review": "yes",
+        "authors": ["Antoine Bercy", "Hynek Roubik"],
+        "publicationDate": "08/2024",
+        "field": "general",
+        "interest":[
+            "classification","standardisation"
+        ]
+    }
+]
